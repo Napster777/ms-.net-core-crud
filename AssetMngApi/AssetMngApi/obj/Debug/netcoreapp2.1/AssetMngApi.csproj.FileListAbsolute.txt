@@ -1,0 +1,14 @@
+D:\DOT NET\net Core\AssetMngApi\AssetMngApi\bin\Debug\netcoreapp2.1\AssetMngApi.deps.json
+D:\DOT NET\net Core\AssetMngApi\AssetMngApi\bin\Debug\netcoreapp2.1\AssetMngApi.runtimeconfig.json
+D:\DOT NET\net Core\AssetMngApi\AssetMngApi\bin\Debug\netcoreapp2.1\AssetMngApi.runtimeconfig.dev.json
+D:\DOT NET\net Core\AssetMngApi\AssetMngApi\bin\Debug\netcoreapp2.1\AssetMngApi.dll
+D:\DOT NET\net Core\AssetMngApi\AssetMngApi\bin\Debug\netcoreapp2.1\AssetMngApi.pdb
+D:\DOT NET\net Core\AssetMngApi\AssetMngApi\obj\Debug\netcoreapp2.1\AssetMngApi.csprojAssemblyReference.cache
+D:\DOT NET\net Core\AssetMngApi\AssetMngApi\obj\Debug\netcoreapp2.1\AssetMngApi.csproj.CoreCompileInputs.cache
+D:\DOT NET\net Core\AssetMngApi\AssetMngApi\obj\Debug\netcoreapp2.1\AssetMngApi.RazorAssemblyInfo.cache
+D:\DOT NET\net Core\AssetMngApi\AssetMngApi\obj\Debug\netcoreapp2.1\AssetMngApi.RazorAssemblyInfo.cs
+D:\DOT NET\net Core\AssetMngApi\AssetMngApi\obj\Debug\netcoreapp2.1\AssetMngApi.AssemblyInfoInputs.cache
+D:\DOT NET\net Core\AssetMngApi\AssetMngApi\obj\Debug\netcoreapp2.1\AssetMngApi.AssemblyInfo.cs
+D:\DOT NET\net Core\AssetMngApi\AssetMngApi\obj\Debug\netcoreapp2.1\AssetMngApi.RazorTargetAssemblyInfo.cache
+D:\DOT NET\net Core\AssetMngApi\AssetMngApi\obj\Debug\netcoreapp2.1\AssetMngApi.dll
+D:\DOT NET\net Core\AssetMngApi\AssetMngApi\obj\Debug\netcoreapp2.1\AssetMngApi.pdb
